@@ -1,0 +1,33 @@
+img{
+/*Las siguientes 4 líneas son para centrar la imagen*/    
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+
+    border-style: double;
+    border-width: 5px;
+}
+
+h1,h3{
+    text-align: center;
+}
+
+#quote{
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+span{
+    font-weight: bold;
+}
+
+*{
+    background-color: lightyellow;
+}
+
+footer{
+    margin-top: 50px;
+}
